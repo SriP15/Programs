@@ -1,4 +1,4 @@
-# Assignment 1: Getting Acquainted with UNIX and C
+# Getting Acquainted with UNIX and C
 
 This assignment asks us to create a bash script that, through the utilization of Gnuplot, outputs various plots of the Collatz sequence. The Collatz sequence data was generated from the given program collatz.c. 
 The first plot graphs the lengths of the Collatz sequences from 2 to 10,000. The second graph plots the maximum values of the Collatz sequences from 2 to 10,000.
